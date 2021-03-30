@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#fff",
+      "borderRadius": 15,
+      "marginBottom": 20,
+      "overflow": "hidden",
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "uri": "https://image.tmdb.org/t/p/w500/undefined",
+      }
+    }
+    style={
+      Object {
+        "height": 100,
+        "width": "100%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "padding": 20,
+      }
+    }
+  >
+    <Text
+      numberOfLines={1}
+      style={
+        Array [
+          Object {
+            "color": "#0c0c0c",
+            "fontFamily": "Avenir",
+            "fontSize": 18,
+          },
+          Object {
+            "marginBottom": 7,
+          },
+        ]
+      }
+    />
+    <Text
+      numberOfLines={2}
+      style={
+        Array [
+          Object {
+            "color": "#0c0c0c",
+            "fontFamily": "Avenir",
+            "fontSize": 18,
+          },
+          Object {
+            "color": "#4ecdc4",
+            "fontWeight": "bold",
+            "marginBottom": 7,
+          },
+        ]
+      }
+    />
+    <Text
+      numberOfLines={2}
+      style={
+        Array [
+          Object {
+            "color": "#0c0c0c",
+            "fontFamily": "Avenir",
+            "fontSize": 18,
+          },
+          Object {
+            "color": "#6e6969",
+            "fontSize": 14,
+          },
+        ]
+      }
+    />
+  </View>
+</View>
+`;
