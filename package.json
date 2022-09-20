@@ -1,0 +1,19 @@
+{
+  "name": "fika-search",
+  "version": "1.0.0",
+  "description": "The objective of this exercise is to fork this repository and create a `react-native` app called 'FikaSearch'. This app will comprise of a listing page of films and the names of their genres. The page should also allow the user to search the films by typing into a text field.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteHeRa/fika-frontend-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteHeRa/fika-frontend-exercise/issues"
+  },
+  "homepage": "https://github.com/SteHeRa/fika-frontend-exercise#readme"
+}
